@@ -6,13 +6,16 @@ The assingment's pdf is added
 
 Finel grade
 
-HOW TO RUN OUR CODE:
-Run on Linux machine
-numpy library should be installed. 
-Clone the project.  
-Unzip it.
+HOW TO RUN OUR CODE:  
 
-FROM THE TERMINAL
+Run on Linux machine  
+numpy library should be installed.  
+Clone the project.  
+Unzip it.  
+
+
+FROM THE TERMINAL  
+
 
 cd to the unzipped directory.  
 type  
