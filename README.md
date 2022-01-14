@@ -15,9 +15,10 @@ Unzip it.
 FROM THE TERMINAL
 
 cd to the unzipped directory.  
-type:  
+type  
 python3 test_assignment.py project.zip config.txt orders.txt true_output.txt true_database.db
   
 This command runs the test file which get few arguments, and should print:
 
 
+![צילום מסך 2022-01-14 225241](https://user-images.githubusercontent.com/58470929/149583929-f85cd1ab-befc-43ef-a6e8-d2016209d61c.png)
